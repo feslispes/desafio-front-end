@@ -26,6 +26,11 @@ git clone https://github.com/feslispes/desafio-front-end.git
 
 3° Abra o arquivo index.html no navegador de sua preferência.
 
+Outra opção é acessar o site hospedado no GitHub Pages:
+
+[Acesse aqui](https://feslispes.github.io/desafio-front-end/)
+
+
 ## Explicação do Código
 
 ### ⭐ HTML
