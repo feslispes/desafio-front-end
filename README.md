@@ -231,7 +231,34 @@ input, textarea {
 ```
 
 Aqui eu declaro que os elementos `input` e `textarea` tenham espaçamento, bordas arredondadas e tamanhos definidos (para `#email` e `#mensagem`, respectivamente).
+````css
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    display: flex;
+    background-color: #000;
+...
+button:hover{
+    background-color: #555;
+    border: solid #555;
+}
+````
+O botão de envio possui fundo preto com texto branco, muda de cor ao passar o mouse e fica centralizado com o auxílio da classe `.container`.
 
-
+#### 🔗 Links
+````css
+a{
+    color: #000;
+    font-weight: bold;
+}
+a:hover{
+    color: #555;
+}
+````
+Por último, os links aparecem em negrito e na cor preta, mudando para cinza no `hover`.
 
 </details>
+
