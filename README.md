@@ -262,9 +262,8 @@ Por último, os links aparecem em negrito e na cor preta, mudando para cinza no 
 
 </details>
 
-## 📘 Projeto
+## 📘 Resultado Final:
 
-> No fim depois de todas essas linhas de código, o site tomará essa forma:
 
 ![DesafioFrontEnd](imgs-README/site.PNG)
 
