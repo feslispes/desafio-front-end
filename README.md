@@ -24,13 +24,13 @@ git clone https://github.com/feslispes/desafio-front-end.git
 2° Acesse a pasta do projeto:
 `desafio-front-end`
 
-3° Abra o arquivo Desafio.html no navegador de sua preferência.
+3° Abra o arquivo index.html no navegador de sua preferência.
 
 ## Explicação do Código
 
 ### ⭐ HTML
 
-> Toda a estrutura do projeto foi feita em HTML, e armazenada dentro do arquivo [Desafio.html](Desafio.html).
+> Toda a estrutura do projeto foi feita em HTML, e armazenada dentro do arquivo [index.html](index.html).
 
 <details>
 <summary>Clique para ver a explicação do código HTML</summary>
