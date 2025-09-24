@@ -2,7 +2,7 @@
  
 >Este repositório reúne meu primeiro projeto desenvolvido na faculdade, utilizando HTML e CSS. O objetivo é compartilhar minha evolução na área e servir como base para futuros estudos e aprendizados.
 
-Olá, me chamo Felipe Oliveira e é com grande prazer que compartilho meu primeiro repositório aqui no GitHub!
+Olá, me chamo Felipe Oliveira e é com grande prazer que compartilho meu primeiro repositório e novo portfólio pessoal, aqui no GitHub!
 
 Faço faculdade de **Sistemas de Informação** na Unisanta. Na última aula da disciplina Fundamentos de Desenvolvimento WEB, recebi o desafio de criar um site simples, contendo alguns tópicos como: 
 
