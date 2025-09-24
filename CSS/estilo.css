@@ -56,14 +56,6 @@ input, textarea{
     resize: none;
 }
 
-a{
-    color: #000;
-    font-weight: bold;
-}
-a:hover{
-    color: #555;
-}
-
 .container{
     display: flex;
     justify-content: center;
@@ -84,3 +76,10 @@ button:hover{
     border: solid #555;
 }
 
+a{
+    color: #000;
+    font-weight: bold;
+}
+a:hover{
+    color: #555;
+}
